@@ -1,0 +1,51 @@
+body,html {
+	width: 100%;
+	height: 100%;
+	font-family: 'Open Sans Condensed', sans-serif;
+	background: url(pic.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+	color: #81bbc4;
+	padding-left: 90px;
+	padding-top: 25px;
+	padding-bottom: 20px;
+}
+
+hr {
+	border-color: #81bbc4;
+	border-width: 3px;
+	max-width: 70px;
+}
+
+.buffer {
+	height: 300px;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-info {
+	background-color: #81bbc4;
+	border-color:  #81bbc4;
+}
+
+.btn-info:hover {
+	border-width: 3px;
+}
+
+.my-btn {
+	padding: 1rem 1rem;
+}
+
+.btn-hr-section {
+	padding-left: 150px;
+	padding-top: 70px;
+}
